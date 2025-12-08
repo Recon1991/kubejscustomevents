@@ -1,0 +1,12 @@
+KubeJS Custom Events Addon
+Copyright © 2025 Lill097. All Rights Reserved.
+
+This software and its associated source code (the "Project") are the exclusive property of Lill097.
+
+You are strictly prohibited from:
+1. Copying, modifying, de-compiling, or distributing the source or binary code of the Project without explicit written permission from Lill097.
+2. Using the Project, or parts thereof, in any other software or commercial project.
+
+Use of this software is granted only as part of an authorized Minecraft Modpack and remains subject to the terms and conditions set forth by Lill097.
+
+For any licensing or authorization inquiries, please contact the author.
